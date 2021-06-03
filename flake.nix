@@ -36,7 +36,7 @@
   description = "nix-doom-emacs home-manager module";
 
   inputs = {
-    doom-emacs.url = "github:hlissner/doom-emacs/a160451fd8f60ffcfb42fbb5c022175483f84cd4";
+    doom-emacs.url = "github:hlissner/doom-emacs/daa50557a4f2b2c5f712e17fbe146ade973ee5aa";
     doom-emacs.flake = false;
     doom-snippets.url = "github:hlissner/doom-snippets";
     doom-snippets.flake = false;
