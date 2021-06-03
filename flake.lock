@@ -3,17 +3,17 @@
     "doom-emacs": {
       "flake": false,
       "locked": {
-        "lastModified": 1621820942,
-        "narHash": "sha256-gySzr21C6WWf7uZp8uznVqBSl5MVZDd0GoD1MDivgi0=",
+        "lastModified": 1621738326,
+        "narHash": "sha256-3uZaov2aCyeMhcQpEZfEh3nqEUn3oOjF5/s++jP1its=",
         "owner": "hlissner",
         "repo": "doom-emacs",
-        "rev": "4b5cf7d46f01da8688a605b30ea5cd6213ca9508",
+        "rev": "65b55fd7d12619d257589e4520cef5b7c87ccb83",
         "type": "github"
       },
       "original": {
         "owner": "hlissner",
         "repo": "doom-emacs",
-        "rev": "4b5cf7d46f01da8688a605b30ea5cd6213ca9508",
+        "rev": "65b55fd7d12619d257589e4520cef5b7c87ccb83",
         "type": "github"
       }
     },
